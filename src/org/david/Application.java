@@ -18,7 +18,9 @@ import static org.david.utils.Options.of;;
 /**
  * 
  * É nessa classe que começa a real implementação.
- *  
+ *
+ * Obs: Muitas classes estão escritas em ingles, porém isso é uma preferencia minha quando to programando!
+ *
  * @author David Duarte Pinheiro
  */
 public class Application {
